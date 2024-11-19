@@ -1,0 +1,4 @@
+get data from the user ..
+    - name
+    - age
+    - address
