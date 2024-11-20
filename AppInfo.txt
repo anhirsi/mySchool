@@ -2,4 +2,8 @@
  -- the address
  -- the phonenumber
 
+<<<<<<< HEAD
 -- this is my admin role
+=======
+ 
+>>>>>>> feature2
