@@ -1,0 +1,2 @@
+-- The admin can register new users
+-- The admin can change registration details
